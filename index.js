@@ -117,3 +117,56 @@
 // console.log(x%y)
 
 
+
+
+
+// Getting User Input and Conditional Logic
+
+// Topic no:5 Prompt: Getting Input from the User
+
+// exercise
+
+// 1.
+// var name= prompt ("What is your name")
+// alert ("HEllo "+name )
+
+// 2.
+// var age= prompt ("What is your age")
+// alert(age)
+
+// 3.
+// var number= prompt ("put any number")
+// alert(number*2)
+
+// 4.
+// var color= prompt ("What is Your Favorite Color")
+// alert ("Wow! I like "+[color]+" too!")
+
+// 5.
+// var city=prompt ("Where You are From")
+// alert("You are From "+[city])
+
+
+// Topic no:6 Prompt: Getting Input from the User
+
+// exercise
+
+// 1.
+// var age =prompt ("What is your age ?")
+// if (age < 30) {
+// alert( "You are still young man."  )}
+
+// 2.
+// var number= prompt ("Put any number")
+// if (number % 2===0) {
+// alert("Even number")}
+
+// 3.
+
+
+
+
+
+
+
+
